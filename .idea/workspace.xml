@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Commit Kiểu dử liệu, biến và toán tử">
+    <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Commit Vòng lặp và rẽ nhánh">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Phan01/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Phan01/Main.kt" afterDir="false" />
     </list>
@@ -70,12 +70,20 @@
       <option name="project" value="LOCAL" />
       <updated>1676810961611</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Vòng lặp và rẽ nhánh">
+      <created>1676815714917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676815714917</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Kiểu dử liệu, biến và toán tử" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Kiểu dử liệu, biến và toán tử" />
+    <MESSAGE value="Commit Vòng lặp và rẽ nhánh" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Vòng lặp và rẽ nhánh" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

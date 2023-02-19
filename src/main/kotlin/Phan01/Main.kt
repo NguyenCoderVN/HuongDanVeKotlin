@@ -78,5 +78,40 @@ fun main(args: Array<String>) {
         itemDoWhile++
     } while (itemDoWhile<=0)
 
+    var testNull : String? = null
+    println("$testNull")
 
+    var size = testNull?.length
+    println("$size")
+
+//    var size1 = testNull!!.length
+//    println("$size1")
+
+    var test123 : String? = null
+    var size123 = test123?.length ?:"Biến này là null"
+    println("$size123")
+
+    val value1 = 5
+    val value2 = 10
+    max(value1,value2)
+    println(max1(value1,value2))
+    println(max2(value1,value2))
 }
+
+fun max(value1:Int, value2: Int) {
+    if (value1>value2) {
+        println("value1 lớn hơn value2 ")
+    } else {
+        println("value2 lớn hơn value1 ")
+    }
+}
+fun max1(value1:Int, value2: Int) : String {
+    if (value1>value2) {
+        return "value1 lớn hơn value2 "
+    } else {
+        return "value2 lớn hơn value1 "
+    }
+}
+fun max2(value1:Int, value2: Int) : String =
+    if (value1>value2)  "value1 lớn hơn value2 "
+    else "value2 lớn hơn value1 "
