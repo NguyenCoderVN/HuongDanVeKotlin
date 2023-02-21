@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Commit Vòng lặp và rẽ nhánh">
+    <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Commit Phương thức hàm">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan02/Dog.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan02/Dog01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan02/Dog02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan02/Dog03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan02/Dog04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan02/Dog05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan02/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan02/main05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan02/main4.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Phan01/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Phan01/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Phan01/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/phan01/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -40,9 +51,35 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="phan02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Main05Kt">
+    <configuration name="Main05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan02.Main05Kt" />
+      <module name="HuongDanVeKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan02.Main4Kt" />
+      <module name="HuongDanVeKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan02.MainKt" />
+      <module name="HuongDanVeKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Phan01.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="phan01.MainKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -50,6 +87,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Main05Kt" />
+        <item itemvalue="Kotlin.Main4Kt" />
+        <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
@@ -77,13 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676815714917</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit Phương thức hàm">
+      <created>1676818596696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676818596696</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Kiểu dử liệu, biến và toán tử" />
     <MESSAGE value="Commit Vòng lặp và rẽ nhánh" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Vòng lặp và rẽ nhánh" />
+    <MESSAGE value="Commit Phương thức hàm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Phương thức hàm" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
