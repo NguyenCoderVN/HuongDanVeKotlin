@@ -12,8 +12,8 @@
 ## **Phần 02 [Video Hướng dẩn](https://youtu.be/Gnys-ew7vic)**
 #### - Đối tượng (Object) là gì
 #### - Lớp (class) là gì  
-#### - Khởi tạo đối tượng, mảng đối tượng
-#### - Tìm hiểu consturtor
+#### - Khởi tạo (initialize) đối tượng, mảng đối tượng
+#### - Tìm hiểu consturtor (primary / secondary constructor)
 #### - Initializer block là gì
 #### - Thứ tự khi khởi tạo đối tượng
 #### - Getter Setter trong Kotlin
