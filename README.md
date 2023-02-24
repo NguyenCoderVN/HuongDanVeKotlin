@@ -6,7 +6,7 @@
 #### - Kiểu dử liệu, biến và toán tử
 #### - Kiểm soát dòng dử liệu qua vòng lặp rẻ nhánh
 #### - Tìm hiểu NullSafe trong Kotlin
-#### - Phương thức hàm trong Kotling
+#### - Phương thức hàm trong Kotlin
 
 
 ## **Phần 02 [Video Hướng dẩn](https://youtu.be/Gnys-ew7vic)**
