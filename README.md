@@ -1,7 +1,28 @@
 # Hướng dẩn về Kotlin
-## **[Video Hướng dẩn về Kotlin](https://www.youtube.com/@nguyencodervn?sub_confirmation=1)**
-![image](https://user-images.githubusercontent.com/41292507/219979074-c26da42d-21f5-463d-baac-c0c8ad9b4ac5.png)
-## **[Video Hướng dẩn phát hành 09:00 22/02/2023](https://youtu.be/Gnys-ew7vic)**
-![image](https://user-images.githubusercontent.com/41292507/220322002-923a7f8b-ce3a-483b-96a9-24691bee9e8e.png)
-## **[Video Hướng dẩn phát hành 09:00 24/02/2023](https://youtu.be/NtetlOc8vsA)**
-![image](https://user-images.githubusercontent.com/41292507/220865396-9461cba4-23ac-4948-b44b-9c9a09b375be.png)
+
+## **Phần 01 [Video Hướng dẩn](https://www.youtube.com/watch?v=H7jeVbQOw-A)**
+#### - Giới thiệu về Kotlin
+#### - Cài đặt IntellliJ IDEA
+#### - Kiểu dử liệu, biến và toán tử
+#### - Kiểm soát dòng dử liệu qua vòng lặp rẻ nhánh
+#### - Tìm hiểu NullSafe trong Kotlin
+#### - Phương thức hàm trong Kotling
+
+
+## **Phần 02 [Video Hướng dẩn](https://youtu.be/Gnys-ew7vic)**
+#### - Đối tượng (Object) là gì
+#### - Lớp (class) là gì  
+#### - Khởi tạo đối tượng, mảng đối tượng
+#### - Tìm hiểu consturtor
+#### - Initializer block là gì
+#### - Thứ tự khi khởi tạo đối tượng
+#### - Getter Setter trong Kotlin
+#### - Tổng kết phần 2 
+
+## **Phần 03 [Video Hướng dẩn](https://youtu.be/NtetlOc8vsA)**
+#### - Tính kế thừa (Inheritance)  
+#### - Lớp cha (superclass), lớp con (subclass)  
+#### - Mối quan hệ kế thừa cha-con (IS-A Relationship)  
+#### - Ghi đè (override) là gì  
+#### - Mối quan hệ tham chiếu thực thể (HAS-A Relationship)  
+#### - Tổng kết phần 3 
