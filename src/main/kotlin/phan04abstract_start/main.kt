@@ -1,4 +1,4 @@
-package phan04abstract_final
+package phan04abstract_start
 
 open class Animal {
     open val image = "image_animal"
@@ -42,9 +42,9 @@ class BabyDog : Dog() {
     }
 }
 
-fun main(args: Array<String>) {
+fun main() {
     println("-------Animal----------")
-    var animal = Animal()
+    val animal = Animal()
     println("Animal image is ${animal.image}")
     println("Animal food is ${animal.food}")
     //println("Animal food is ${animal.habitat}")
@@ -54,7 +54,7 @@ fun main(args: Array<String>) {
     animal.habitat()
 
     println("-------Dog----------")
-    var myDog = Dog()
+    val myDog = Dog()
     println("MyDog image is ${myDog.image}")
     println("MyDog food is ${myDog.food}")
     myDog.eat()
@@ -62,7 +62,7 @@ fun main(args: Array<String>) {
     myDog.sleep()
 
     println("-------BabyDog----------")
-    var myBabyDog = BabyDog()
+    val myBabyDog = BabyDog()
     println("MyBabyDog image is ${myBabyDog.image}")
     println("MyBabyDog food is ${myBabyDog.food}")
     myBabyDog.eat()
