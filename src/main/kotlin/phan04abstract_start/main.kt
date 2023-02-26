@@ -18,7 +18,7 @@ open class Animal {
     }
 
     fun habitat() {
-        println("The animal habitat")
+        println("The animal $habitat")
     }
 }
 
