@@ -33,6 +33,7 @@ open class Dog : Animal() {
     override fun say() {
         println("The dog is saying Woo Woo")
     }
+
 }
 
 class BabyDog : Dog() {
@@ -43,29 +44,5 @@ class BabyDog : Dog() {
 }
 
 fun main() {
-    println("-------Animal----------")
-    val animal = Animal()
-    println("Animal image is ${animal.image}")
-    println("Animal food is ${animal.food}")
-    //println("Animal food is ${animal.habitat}")
-    animal.eat()
-    animal.say()
-    animal.sleep()
-    animal.habitat()
 
-    println("-------Dog----------")
-    val myDog = Dog()
-    println("MyDog image is ${myDog.image}")
-    println("MyDog food is ${myDog.food}")
-    myDog.eat()
-    myDog.say()
-    myDog.sleep()
-
-    println("-------BabyDog----------")
-    val myBabyDog = BabyDog()
-    println("MyBabyDog image is ${myBabyDog.image}")
-    println("MyBabyDog food is ${myBabyDog.food}")
-    myBabyDog.eat()
-    myBabyDog.say()
-    myBabyDog.sleep()
 }
