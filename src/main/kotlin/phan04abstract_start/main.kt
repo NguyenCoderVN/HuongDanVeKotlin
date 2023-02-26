@@ -26,7 +26,7 @@ open class Dog : Animal() {
     override var image: String = "Dog_image"
     override val food: String = "meat"
 
-    override fun eat() {
+    final override fun eat() {
         println("The dog is eating $food")
     }
 
@@ -37,9 +37,9 @@ open class Dog : Animal() {
 
 class BabyDog : Dog() {
     override var image: String = "BabyDog_image"
-        override fun eat() {
-        println("The dog is eating baby $food")
-    }
+//    override fun eat() {
+//        println("The dog is eating baby $food")
+//    }
 }
 
 fun main() {

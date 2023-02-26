@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Commit Phần 04 abstract start">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/phan04abstract_start/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/phan04abstract_start/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677376706322</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit Phần 04 abstract start">
+      <created>1677377395052</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677377395052</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,9 +185,9 @@
     <MESSAGE value="Commit Vòng lặp và rẽ nhánh" />
     <MESSAGE value="Commit Phương thức hàm" />
     <MESSAGE value="Commit phan 03" />
-    <MESSAGE value="Commit Phần 04 abstract start" />
     <MESSAGE value="Commit Phần 04 abstract final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Phần 04 abstract final" />
+    <MESSAGE value="Commit Phần 04 abstract start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Phần 04 abstract start" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
