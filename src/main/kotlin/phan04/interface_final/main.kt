@@ -1,9 +1,8 @@
-package phan04abstract_start
+package phan04.interface_final
 
 open class Animal {
     open val image = "image_animal"
     open val food = "food_animal"
-    private val habitat = "habitat_animal"
 
     open fun eat() {
         println("The animal is eating")
@@ -17,9 +16,6 @@ open class Animal {
         println("The animal is sleeping")
     }
 
-    fun habitat() {
-        println("The animal $habitat")
-    }
 }
 
 open class Dog : Animal() {
@@ -33,14 +29,6 @@ open class Dog : Animal() {
     override fun say() {
         println("The dog is saying Woo Woo")
     }
-
-}
-
-class BabyDog : Dog() {
-    override var image: String = "BabyDog_image"
-//    override fun eat() {
-//        println("The dog is eating baby $food")
-//    }
 }
 
 fun main() {
