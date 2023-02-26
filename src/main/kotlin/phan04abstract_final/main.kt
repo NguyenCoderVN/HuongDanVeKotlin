@@ -1,4 +1,4 @@
-package phan04abstract_final
+package phan04abstract_start
 
 open class Animal {
     open val image = "image_animal"
