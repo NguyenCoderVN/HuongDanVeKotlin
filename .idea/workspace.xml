@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Commit Phần 04 start">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan04/abstract_start/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan04/data_class/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan04/enum_class/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan04/interface_start/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan04/sealed_class/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/phan04abstract_start/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/phan04/abstract_finish/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/phan04interface_start/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/phan04/interface_final/main.kt" afterDir="false" />
+    <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Commit Phần 04 finish">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/phan04/abstract_finish/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/phan04/abstract_finish/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/phan04/data_class/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/phan04/data_class/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/phan04/interface_final/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/phan04/interface_final/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="phan04interface_final" />
+        <entry key="$PROJECT_DIR$" value="phan04_finish" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,15 +41,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "E:/Learning/Kotlin/HuongDanVeKotlin/src/main/kotlin/phan04/interface_start",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Learning/Kotlin/HuongDanVeKotlin/src/main/kotlin/phan04/interface_start&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Learning\Kotlin\HuongDanVeKotlin\src\main\kotlin\phan04\interface_start" />
@@ -71,7 +67,7 @@
       <recent name="phan02" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (3)">
+  <component name="RunManager" selected="Kotlin.Main4Kt">
     <configuration name="Main05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="phan02.Main05Kt" />
       <module name="HuongDanVeKotlin" />
@@ -109,9 +105,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainKt (3)" />
         <item itemvalue="Kotlin.MainKt (2)" />
         <item itemvalue="Kotlin.MainKt (1)" />
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.Main05Kt" />
         <item itemvalue="Kotlin.Main4Kt" />
       </list>
@@ -203,7 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677417421388</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Commit Phần 04 start">
+      <created>1677418170879</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677418170879</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Commit Phần 04 start">
+      <created>1677418176176</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677418176176</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +235,8 @@
     <MESSAGE value="Commit Phần 04 abstract start" />
     <MESSAGE value="Commit Phần 04 abstract final" />
     <MESSAGE value="Commit Phần 04 start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Phần 04 start" />
+    <MESSAGE value="Commit Phần 04 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Phần 04 finish" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

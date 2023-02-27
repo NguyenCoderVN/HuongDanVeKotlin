@@ -26,3 +26,9 @@
 #### - Ghi đè (override) là gì  
 #### - Mối quan hệ tham chiếu thực thể (HAS-A Relationship)  
 #### - Tổng kết phần 3 
+
+## **Phần 04 [Video Hướng dẩn](https://www.youtube.com/watch?v=sXRkuB9eeQI)**
+#### - Lớp trừu tượng Abstract Class
+#### - Giao diện Interface
+#### - Tìm hiểu về Any Class
+#### - Lớp dữ liệu Data Class
