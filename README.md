@@ -39,4 +39,4 @@
 #### - So sánh Enum Class và Sealed Class
 #### - Tìm hiểu Null và Exception
 #### - Tìm hiểu tập hợp Collection
-#### - Tổng kết phần 04
+#### - Tổng kết phần 05
