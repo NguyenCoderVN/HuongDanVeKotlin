@@ -27,7 +27,7 @@
 #### - Mối quan hệ tham chiếu thực thể (HAS-A Relationship)  
 #### - Tổng kết phần 3 
 
-## **Phần 04 [Video Hướng dẩn](https://www.youtube.com/watch?v=sXRkuB9eeQI)**
+## **Phần 04 [Video Hướng dẩn](https://youtu.be/2QZ5ZMD4Ypc)**
 #### - Lớp trừu tượng Abstract Class
 #### - Giao diện Interface
 #### - Tìm hiểu về Any Class
