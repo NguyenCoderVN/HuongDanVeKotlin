@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Commit Phần 04 finish">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Commit Phần 05">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan05/companion_object_demo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan05/enum_demo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan05/object_demo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan05/sealed_class_demo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -64,37 +68,37 @@
       <recent name="phan02" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Main4Kt">
-    <configuration name="Main05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan02.Main05Kt" />
+  <component name="RunManager" selected="Kotlin.Sealed_class_demoKt">
+    <configuration name="Companion_object_demoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan05.Companion_object_demoKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan02.Main4Kt" />
+    <configuration name="Enum_classKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan05.Enum_classKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan02.MainKt" />
+    <configuration name="Enum_demoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan05.Enum_demoKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan03.MainKt" />
+    <configuration name="Sealed_classKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan05.Sealed_classKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan04abstract_start.abstract_start.MainKt" />
+    <configuration name="Sealed_class_demoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan05.Sealed_class_demoKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainKt (2)" />
-        <item itemvalue="Kotlin.MainKt (1)" />
-        <item itemvalue="Kotlin.MainKt" />
-        <item itemvalue="Kotlin.Main05Kt" />
-        <item itemvalue="Kotlin.Main4Kt" />
+        <item itemvalue="Kotlin.Sealed_class_demoKt" />
+        <item itemvalue="Kotlin.Sealed_classKt" />
+        <item itemvalue="Kotlin.Enum_demoKt" />
+        <item itemvalue="Kotlin.Enum_classKt" />
+        <item itemvalue="Kotlin.Companion_object_demoKt" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677459608325</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Commit Phần 05">
+      <created>1677461434673</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1677461434673</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Commit Phần 05">
+      <created>1677461451611</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1677461451611</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,7 +265,8 @@
     <MESSAGE value="Commit Phần 04 abstract final" />
     <MESSAGE value="Commit Phần 04 start" />
     <MESSAGE value="Commit Phần 04 finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Phần 04 finish" />
+    <MESSAGE value="Commit Phần 05" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Phần 05" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
