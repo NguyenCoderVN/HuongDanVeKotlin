@@ -27,16 +27,16 @@
 #### - Mối quan hệ tham chiếu thực thể (HAS-A Relationship)  
 #### - Tổng kết phần 3 
 
-## **Phần 04 [Video Hướng dẩn](https://www.youtube.com/watch?v=sXRkuB9eeQI)**
+## **Phần 04 [Video Hướng dẩn](https://youtu.be/2QZ5ZMD4Ypc)**
 #### - Lớp trừu tượng Abstract Class
 #### - Giao diện Interface
 #### - Tìm hiểu về Any Class
 #### - Lớp dữ liệu Data Class
 
-## **Phần 05 [Video Hướng dẩn]()**
+## **Phần 05 [Video Hướng dẩn](https://youtu.be/w2TzAJjikJI)**
+#### - Khai báo đối tượng object declaration
+#### - Đối tượng đồng hành companion object
 #### - Lớp liệt kê Enum Class
 #### - Lớp niêm phong Sealed Class
-#### - So sánh Enum Class và Sealed Class
-#### - Tìm hiểu Null và Exception
-#### - Tìm hiểu tập hợp Collection
-#### - Tổng kết phần 05
+
+
