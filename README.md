@@ -39,4 +39,10 @@
 #### - Lớp liệt kê Enum Class
 #### - Lớp niêm phong Sealed Class
 
+## **Phần 06 [Video Hướng dẩn](https://youtu.be/nfmrgOy4O8c)**
+#### - Mảng Array
+#### - List, MutableList
+#### - Set, MutableSet
+#### - Map, MutableMap
+
 
