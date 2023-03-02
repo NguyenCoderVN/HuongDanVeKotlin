@@ -2,7 +2,7 @@ package phan06
 
 fun main() {
 
-    val myNumber = arrayOf(1, 2, 3, 2, 5)
+    val myNumber = mutableListOf(1, 2, 3, 2, 5)
     showValue(myNumber,"")
 
     println("Item at 1 is ${myNumber[1]}")
@@ -22,10 +22,31 @@ fun main() {
     myNumber.sort()
     showValue(myNumber,"sort()")
 
+    val yourNumber = listOf(7,8,9)
 
+    myNumber.addAll(yourNumber)
+    showValue(myNumber,"addAll")
+
+//    myNumber.removeAll(yourNumber)
+//    showValue(myNumber,"removeAll")
+
+    myNumber.retainAll(yourNumber)
+    showValue(myNumber,"retainAll")
+
+    myNumber.add(12)
+    showValue(myNumber,"add(12)")
+
+    myNumber.add(1,15)
+    showValue(myNumber,"add(1,15)")
+
+    myNumber.removeAt(3)
+    showValue(myNumber,"removeAt(3)")
+
+    myNumber.clear()
+    showValue(myNumber,"clear()")
 }
 
-private fun showValue(myNumber: Array<Int>, text: String) {
+private fun showValue(myNumber: List<Int>, text: String) {
     println("---$text---")
     for ((i, item) in myNumber.withIndex()) {
         println("Index $i is $item")
