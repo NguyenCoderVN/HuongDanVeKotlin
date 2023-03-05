@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Phần 06 collection">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan06/list_main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan06/map_main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan06/mutablelist_main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan06/mutablemap_main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan06/mutableset_main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan06/set_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan07/anonymous_closure_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan07/function_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan07/function_scope.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan07/high_order_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan07/single_extensions_main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_23_2023_8_09_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_23_2023_8_09_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_26_2023_8_21_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_26_2023_8_21_AM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/phan06/array_main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/phan06/array_main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -45,14 +47,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Learning/Kotlin/HuongDanVeKotlin/src/main/kotlin/phan06",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Learning/Kotlin/HuongDanVeKotlin/src/main/kotlin/phan06&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Learning\Kotlin\HuongDanVeKotlin\src\main\kotlin\phan06" />
@@ -71,37 +73,37 @@
       <recent name="phan02" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Mutablemap_mainKt">
-    <configuration name="Map_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan06.Map_mainKt" />
+  <component name="RunManager" selected="Kotlin.High_order_mainKt">
+    <configuration name="Anonymous_closure_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan07.Anonymous_closure_mainKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mutablelist_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan06.Mutablelist_mainKt" />
+    <configuration name="Function_scopeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan07.Function_scopeKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mutablemap_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan06.Mutablemap_mainKt" />
+    <configuration name="High_order_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan07.High_order_mainKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mutableset_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan06.Mutableset_mainKt" />
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan07.MainKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Set_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan06.Set_mainKt" />
+    <configuration name="Single_extensions_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan07.Single_extensions_mainKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Mutablemap_mainKt" />
-        <item itemvalue="Kotlin.Map_mainKt" />
-        <item itemvalue="Kotlin.Mutableset_mainKt" />
-        <item itemvalue="Kotlin.Set_mainKt" />
-        <item itemvalue="Kotlin.Mutablelist_mainKt" />
+        <item itemvalue="Kotlin.High_order_mainKt" />
+        <item itemvalue="Kotlin.Anonymous_closure_mainKt" />
+        <item itemvalue="Kotlin.Single_extensions_mainKt" />
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.Function_scopeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677759713638</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Phần 06 collection">
+      <created>1677771402191</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1677771402191</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
