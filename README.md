@@ -46,3 +46,11 @@
 #### - Map, MutableMap
 
 
+## **Phần 07 [Video Hướng dẩn](https://youtu.be/GXsesnpliFk)**
+#### - Chi tiết về Hàm Function trong Kotlin
+#### - Function Scope (Top-level, Member, Local)
+#### - Single-Expression Function
+#### - Extensions Function
+#### - Anonymous Function
+#### - Closure Function
+#### - Higher Order Function
