@@ -54,3 +54,6 @@
 #### - Anonymous Function
 #### - Closure Function
 #### - Higher Order Function
+
+## **Phần 08 [Video Hướng dẩn](https://youtu.be/GXsesnpliFk)**
+#### - Lambda trong Kotlin
