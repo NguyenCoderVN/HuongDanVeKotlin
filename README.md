@@ -55,5 +55,5 @@
 #### - Closure Function
 #### - Higher Order Function
 
-## **Phần 08 [Video Hướng dẩn](https://youtu.be/GXsesnpliFk)**
+## **Phần 08 [Video Hướng dẩn](https://youtu.be/kONCHQu-dl8)**
 #### - Lambda trong Kotlin
