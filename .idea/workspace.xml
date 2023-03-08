@@ -7,7 +7,6 @@
     <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Phần 08">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/phan08/lambda_basic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/phan08/lambda_basic.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/phan08/lambda_collection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/phan08/lambda_collection.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

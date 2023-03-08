@@ -58,7 +58,6 @@ fun sumLambdaAddTen(x: Int, operator: (Int) -> Unit) {
     operator(x + 10)
 }
 
-
 interface GetSum {
     fun executive(x: Int, y: Int)
 }
