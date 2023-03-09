@@ -57,3 +57,9 @@
 
 ## **Phần 08 [Video Hướng dẩn](https://youtu.be/kONCHQu-dl8)**
 #### - Lambda trong Kotlin
+
+## **Phần 09 [Video Hướng dẩn](https://youtu.be/hhRo6juHuVg)**
+#### - Scope function (let, apply, run, with và also)
+#### - Lateinit keyword
+#### - Lazy keyword
+
