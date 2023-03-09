@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Phần 08">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan09/lateinit_demo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan09/lazy_demo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan09/scope_function.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/phan08/lambda_basic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/phan08/lambda_basic.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -65,30 +67,30 @@
       <recent name="phan02" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Lambda_collectionKt">
-    <configuration name="Anonymous_closure_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan07.Anonymous_closure_mainKt" />
-      <module name="HuongDanVeKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="High_order_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan07.High_order_mainKt" />
-      <module name="HuongDanVeKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lambda_basicKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan08.Lambda_basicKt" />
-      <module name="HuongDanVeKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Lazy_demoKt">
     <configuration name="Lambda_collectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="phan08.Lambda_collectionKt" />
+      <module name="HuongDanVeKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lateinit_demoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan09.Lateinit_demoKt" />
+      <module name="HuongDanVeKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lazy_demoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan09.Lazy_demoKt" />
+      <module name="HuongDanVeKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scope_functionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan09.Scope_functionKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Lazy_demoKt" />
+        <item itemvalue="Kotlin.Lateinit_demoKt" />
+        <item itemvalue="Kotlin.Scope_functionKt" />
         <item itemvalue="Kotlin.Single_extensions_mainKt" />
         <item itemvalue="Kotlin.Lambda_collectionKt" />
-        <item itemvalue="Kotlin.Lambda_basicKt" />
-        <item itemvalue="Kotlin.High_order_mainKt" />
-        <item itemvalue="Kotlin.Anonymous_closure_mainKt" />
       </list>
     </recent_temporary>
   </component>
