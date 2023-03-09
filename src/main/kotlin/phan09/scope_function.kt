@@ -82,7 +82,7 @@ fun main() {
     }
     println(textWith)
 
-    //Tìm hiểu thêm về hàm let
+    //Tìm hiểu thêm về hàm let.
     val number = mutableListOf("one", "two", "three","four","five")
     val result = number.filter { it.length > 3 }
     println(result)
