@@ -63,3 +63,7 @@
 #### - Lateinit keyword
 #### - Lazy keyword
 
+## **Phần 10 [Video Hướng dẩn](https://youtu.be/bVAapddDNoc)**
+#### - Backing Fields 
+#### - Class Delegation 
+#### - Properties Delegation
