@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Phần 08">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan09/lateinit_demo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan09/lazy_demo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan09/scope_function.kt" afterDir="false" />
+    <list default="true" id="19319553-a4c2-4704-a6f7-5c875979d426" name="Changes" comment="Phần 09">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan10/backing_field.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan10/class_delegation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan10/inline_noinline_crossinline.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/phan10/properties_delegation.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,16 +68,23 @@
       <recent name="phan02" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Lazy_demoKt">
-    <configuration name="Lambda_collectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan08.Lambda_collectionKt" />
+  <component name="RunManager" selected="Kotlin.Properties_delegationKt">
+    <configuration name="Backing_fieldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan10.Backing_fieldKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lateinit_demoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan09.Lateinit_demoKt" />
+    <configuration name="Class_delegationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan10.Class_delegationKt" />
+      <module name="HuongDanVeKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DelegationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan10.DelegationKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,15 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scope_functionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan09.Scope_functionKt" />
-      <module name="HuongDanVeKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Single_extensions_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phan07.Single_extensions_mainKt" />
+    <configuration name="Properties_delegationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phan10.Properties_delegationKt" />
       <module name="HuongDanVeKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Properties_delegationKt" />
+        <item itemvalue="Kotlin.Class_delegationKt" />
+        <item itemvalue="Kotlin.DelegationKt" />
+        <item itemvalue="Kotlin.Backing_fieldKt" />
         <item itemvalue="Kotlin.Lazy_demoKt" />
-        <item itemvalue="Kotlin.Lateinit_demoKt" />
-        <item itemvalue="Kotlin.Scope_functionKt" />
-        <item itemvalue="Kotlin.Single_extensions_mainKt" />
-        <item itemvalue="Kotlin.Lambda_collectionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +291,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678193846640</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Phần 08">
+      <created>1678372249999</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1678372249999</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Phần 09">
+      <created>1678372332822</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1678372332822</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Phần 09">
+      <created>1678372360501</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1678372360501</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,7 +339,8 @@
     <MESSAGE value="Phần 06 collection" />
     <MESSAGE value="Phần 07 function" />
     <MESSAGE value="Phần 08" />
-    <option name="LAST_COMMIT_MESSAGE" value="Phần 08" />
+    <MESSAGE value="Phần 09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phần 09" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
